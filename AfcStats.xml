@@ -1,0 +1,7 @@
+<application>
+  <component name="AfcStats">
+    <option name="symbolsTyped" value="6339" />
+    <option name="daysWithoutNullPointer" value="5" />
+    <option name="lastDateWithoutNullPointer" value="1488976853756" />
+  </component>
+</application>

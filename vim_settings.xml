@@ -1,0 +1,37 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/javazeug/src/de/g4bri3l/main/test/Matheshit.java" timestamp="1464890292053">
+        <mark key="[" line="12" column="21" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Miniplan2/src/de/g4bri3l/miniplan2/lib/Ministrant.java" timestamp="1464982512595">
+        <mark key="[" line="6" column="31" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Miniplan2/src/de/g4bri3l/miniplan2/miniplanClient/MiniplanClientGui.java" timestamp="1465070664105" />
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxTdHJpbmc+IGZyaWVuZHMgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxTdHJpbmc+IGZyaWVuZHMgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts />
+  </component>
+</application>
